@@ -1,0 +1,55 @@
+Restoring modules from user's boxkit, for system: "summit"
+
+-------------------------Running: __main__.TestMean.test_06_datasets_3D-------------------------
+
+nthreads: 8
+...
+----------------------------------------------------------------------
+Ran 3 tests in 66.400s
+
+OK
+[boxkit.mean_temporal.mean_blk_list]: 3.032s
+[boxkit.mean_temporal.mean_blk_list]: 2.313s
+[boxkit.mean_temporal.mean_blk_list]: 2.313s
+[boxkit.mean_temporal]: 7.940s
+[mean_06_datasets]: 7.940s
+[mergeblocks]: 0.469s
+__main__.TestMean.test_06_datasets_3D: 10.179s
+
+-------------------------Running: __main__.TestMean.test_12_datasets_3D-------------------------
+
+nthreads: 8
+[boxkit.mean_temporal.mean_blk_list]: 4.771s
+[boxkit.mean_temporal.mean_blk_list]: 4.069s
+[boxkit.mean_temporal.mean_blk_list]: 4.267s
+[boxkit.mean_temporal]: 13.433s
+[mean_12_datasets]: 13.434s
+[mergeblocks]: 0.421s
+__main__.TestMean.test_12_datasets_3D: 16.983s
+
+-------------------------Running: __main__.TestMean.test_29_datasets_3D-------------------------
+
+nthreads: 8
+[boxkit.mean_temporal.mean_blk_list]: 10.207s
+[boxkit.mean_temporal.mean_blk_list]: 10.496s
+[boxkit.mean_temporal.mean_blk_list]: 10.358s
+[boxkit.mean_temporal]: 31.359s
+[mean_29_datasets]: 31.360s
+[mergeblocks]: 0.407s
+__main__.TestMean.test_29_datasets_3D: 38.897s
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@batch2>
+Subject: Job 2598647: <boxkit> in cluster <summit> Done
+
+Job <boxkit> was submitted from host <login3> by user <adhruv> in cluster <summit> at Tue Dec 13 04:08:57 2022
+Job was executed on host(s) <1*batch2>, in queue <batch>, as user <adhruv> in cluster <summit> at Tue Dec 13 04:10:01 2022
+                            <42*g37n11>
+</ccs/home/adhruv> was used as the home directory.
+</gpfs/alpine/ast136/proj-shared/adhruv/Boxkit> was used as the working directory.
+Started at Tue Dec 13 04:10:01 2022
+Terminated at Tue Dec 13 04:11:24 2022
+Results reported at Tue Dec 13 04:11:24 2022
+
+The output (if any) is above this job summary.
+

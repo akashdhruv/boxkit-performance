@@ -1,0 +1,43 @@
+Restoring modules from user's boxkit, for system: "summit"
+
+-------------------------Running: __main__.TestCache.test_01_optimized_3D-------------------------
+
+nthreads: 2, subthreads: 8
+..
+----------------------------------------------------------------------
+Ran 2 tests in 62.705s
+
+OK
+__main__.TestCache.test_01_optimized_3D: 10.201s
+
+-------------------------Running: __main__.TestCache.test_02_naive_3D-------------------------
+
+[mergeblocks.naive]: 8.898s
+[mergeblocks.naive]: 8.853s
+[mergeblocks.naive]: 8.740s
+[mergeblocks.naive]: 8.586s
+[mergeblocks.naive]: 8.647s
+[mergeblocks.naive]: 8.420s
+__main__.TestCache.test_02_naive_3D: 52.494s
+[mergblocks.optimized]: 2.849s
+[mergblocks.optimized]: 1.580s
+[mergblocks.optimized]: 1.396s
+[mergblocks.optimized]: 2.453s
+[mergblocks.optimized]: 1.516s
+[mergblocks.optimized]: 1.499s
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@batch1>
+Subject: Job 2595427: <boxkit> in cluster <summit> Done
+
+Job <boxkit> was submitted from host <login3> by user <adhruv> in cluster <summit> at Sun Dec 11 22:57:42 2022
+Job was executed on host(s) <1*batch1>, in queue <batch>, as user <adhruv> in cluster <summit> at Sun Dec 11 22:58:28 2022
+                            <42*h50n18>
+</ccs/home/adhruv> was used as the home directory.
+</gpfs/alpine/ast136/proj-shared/adhruv/Boxkit> was used as the working directory.
+Started at Sun Dec 11 22:58:28 2022
+Terminated at Sun Dec 11 22:59:56 2022
+Results reported at Sun Dec 11 22:59:56 2022
+
+The output (if any) is above this job summary.
+

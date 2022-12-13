@@ -1,0 +1,79 @@
+Restoring modules from user's boxkit, for system: "summit"
+  0%|          | 0/4096 [00:00<?, ?it/s]
+-------------------------Running: __main__.TestCache.test_01_optimized_3D-------------------------
+
+nthreads: 8
+[cpu_count]: 128 [cpu_avail]: 127 [mem_avail]: 468.54 GB [cpu_usage]: 1.2% [mem_usage]: 18.3%
+[mem_dataset]: 488.28 MB
+run-loky:boxkit.api._mergeblocks.map_blk_to_merged_dset
+  0%|          | 16/4096 [00:00<02:53, 23.57it/s]  6%|▋         | 264/4096 [00:00<01:54, 33.50it/s] 13%|█▎        | 520/4096 [00:00<01:15, 47.55it/s] 25%|██▌       | 1032/4096 [00:01<00:45, 67.62it/s] 50%|█████     | 2056/4096 [00:01<00:21, 96.04it/s] 63%|██████▎   | 2568/4096 [00:01<00:11, 135.92it/s] 75%|███████▌  | 3080/4096 [00:01<00:05, 191.27it/s] 88%|████████▊ | 3592/4096 [00:01<00:01, 268.16it/s]100%|██████████| 4096/4096 [00:01<00:00, 2544.98it/s]
+  0%|          | 0/4096 [00:00<?, ?it/s]  4%|▍         | 176/4096 [00:00<00:02, 1672.59it/s] 18%|█▊        | 752/4096 [00:00<00:01, 2062.39it/s] 37%|███▋      | 1520/4096 [00:00<00:01, 2512.51it/s] 50%|████▉     | 2032/4096 [00:00<00:00, 2749.52it/s] 62%|██████▏   | 2544/4096 [00:00<00:00, 2733.30it/s] 75%|███████▍  | 3056/4096 [00:00<00:00, 2958.28it/s] 87%|████████▋ | 3568/4096 [00:00<00:00, 3252.27it/s]100%|█████████▉| 4080/4096 [00:01<00:00, 3319.85it/s]100%|██████████| 4096/4096 [00:01<00:00, 3638.85it/s]
+  0%|          | 0/4096 [00:00<?, ?it/s]  4%|▍         | 176/4096 [00:00<00:02, 1616.56it/s] 18%|█▊        | 752/4096 [00:00<00:01, 2020.03it/s] 37%|███▋      | 1520/4096 [00:00<00:01, 2497.34it/s] 50%|████▉     | 2032/4096 [00:00<00:00, 2818.98it/s] 75%|███████▍  | 3056/4096 [00:00<00:00, 3531.50it/s]100%|█████████▉| 4080/4096 [00:01<00:00, 3087.85it/s]100%|██████████| 4096/4096 [00:01<00:00, 3933.59it/s]
+  0%|          | 0/4096 [00:00<?, ?it/s]  4%|▍         | 176/4096 [00:00<00:02, 1640.83it/s] 18%|█▊        | 752/4096 [00:00<00:01, 2037.54it/s] 37%|███▋      | 1520/4096 [00:00<00:01, 2529.02it/s] 50%|████▉     | 2032/4096 [00:00<00:00, 2611.84it/s] 62%|██████▏   | 2544/4096 [00:00<00:00, 2917.47it/s] 75%|███████▍  | 3056/4096 [00:00<00:00, 2875.37it/s] 87%|████████▋ | 3568/4096 [00:00<00:00, 3122.51it/s]100%|█████████▉| 4080/4096 [00:01<00:00, 3171.43it/s]100%|██████████| 4096/4096 [00:01<00:00, 3583.65it/s]
+  0%|          | 0/4096 [00:00<?, ?it/s]  4%|▍         | 176/4096 [00:00<00:02, 1641.34it/s] 18%|█▊        | 752/4096 [00:00<00:01, 2055.11it/s] 37%|███▋      | 1520/4096 [00:00<00:01, 2491.68it/s] 50%|████▉     | 2032/4096 [00:00<00:00, 2775.04it/s] 62%|██████▏   | 2544/4096 [00:00<00:00, 3093.12it/s] 75%|███████▍  | 3056/4096 [00:00<00:00, 3246.87it/s] 87%|████████▋ | 3568/4096 [00:00<00:00, 3601.84it/s]100%|█████████▉| 4080/4096 [00:01<00:00, 3689.85it/s]100%|██████████| 4096/4096 [00:01<00:00, 4050.01it/s]
+  0%|          | 0/4096 [00:00<?, ?it/s]  4%|▍         | 176/4096 [00:00<00:02, 1708.90it/s] 12%|█▏        | 496/4096 [00:00<00:01, 1932.25it/s] 25%|██▍       | 1008/4096 [00:00<00:01, 2340.43it/s] 50%|████▉     | 2032/4096 [00:00<00:00, 2717.38it/s] 62%|██████▏   | 2544/4096 [00:00<00:00, 3037.76it/s] 75%|███████▍  | 3056/4096 [00:00<00:00, 3206.64it/s] 87%|████████▋ | 3568/4096 [00:00<00:00, 3485.95it/s]100%|█████████▉| 4080/4096 [00:01<00:00, 3597.06it/s]100%|██████████| 4096/4096 [00:01<00:00, 3811.87it/s]
+..
+----------------------------------------------------------------------
+Ran 2 tests in 69.984s
+
+OK
+[boxkit.mergeblocks.map_dataset_block]: 1.950s
+[boxkit.mergeblocks]: 2.141s
+[mergblocks.optimized]: 2.141s
+[cpu_count]: 128 [cpu_avail]: 119 [mem_avail]: 468.18 GB [cpu_usage]: 7.2% [mem_usage]: 18.3%
+[mem_dataset]: 488.28 MB
+run-loky:boxkit.api._mergeblocks.map_blk_to_merged_dset
+[boxkit.mergeblocks.map_dataset_block]: 1.296s
+[boxkit.mergeblocks]: 1.519s
+[mergblocks.optimized]: 1.519s
+[cpu_count]: 128 [cpu_avail]: 123 [mem_avail]: 468.11 GB [cpu_usage]: 4.2% [mem_usage]: 18.3%
+[mem_dataset]: 488.28 MB
+run-loky:boxkit.api._mergeblocks.map_blk_to_merged_dset
+[boxkit.mergeblocks.map_dataset_block]: 1.451s
+[boxkit.mergeblocks]: 1.654s
+[mergblocks.optimized]: 1.654s
+[cpu_count]: 128 [cpu_avail]: 124 [mem_avail]: 468.13 GB [cpu_usage]: 3.9% [mem_usage]: 18.3%
+[mem_dataset]: 488.28 MB
+run-loky:boxkit.api._mergeblocks.map_blk_to_merged_dset
+[boxkit.mergeblocks.map_dataset_block]: 1.358s
+[boxkit.mergeblocks]: 1.554s
+[mergblocks.optimized]: 1.554s
+[cpu_count]: 128 [cpu_avail]: 123 [mem_avail]: 468.2 GB [cpu_usage]: 4.2% [mem_usage]: 18.3%
+[mem_dataset]: 488.28 MB
+run-loky:boxkit.api._mergeblocks.map_blk_to_merged_dset
+[boxkit.mergeblocks.map_dataset_block]: 1.217s
+[boxkit.mergeblocks]: 1.412s
+[mergblocks.optimized]: 1.412s
+[cpu_count]: 128 [cpu_avail]: 124 [mem_avail]: 468.16 GB [cpu_usage]: 3.4% [mem_usage]: 18.3%
+[mem_dataset]: 488.28 MB
+run-loky:boxkit.api._mergeblocks.map_blk_to_merged_dset
+[boxkit.mergeblocks.map_dataset_block]: 1.258s
+[boxkit.mergeblocks]: 1.449s
+[mergblocks.optimized]: 1.449s
+__main__.TestCache.test_01_optimized_3D: 14.724s
+
+-------------------------Running: __main__.TestCache.test_02_naive_3D-------------------------
+
+[mergeblocks.naive]: 9.223s
+[mergeblocks.naive]: 9.130s
+[mergeblocks.naive]: 9.059s
+[mergeblocks.naive]: 9.106s
+[mergeblocks.naive]: 9.186s
+[mergeblocks.naive]: 9.134s
+__main__.TestCache.test_02_naive_3D: 55.260s
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@batch5>
+Subject: Job 2595259: <boxkit> in cluster <summit> Done
+
+Job <boxkit> was submitted from host <login2> by user <adhruv> in cluster <summit> at Sun Dec 11 22:02:13 2022
+Job was executed on host(s) <1*batch5>, in queue <batch>, as user <adhruv> in cluster <summit> at Sun Dec 11 22:02:58 2022
+                            <42*h50n17>
+</ccs/home/adhruv> was used as the home directory.
+</gpfs/alpine/ast136/proj-shared/adhruv/Boxkit> was used as the working directory.
+Started at Sun Dec 11 22:02:58 2022
+Terminated at Sun Dec 11 22:04:26 2022
+Results reported at Sun Dec 11 22:04:26 2022
+
+The output (if any) is above this job summary.
+

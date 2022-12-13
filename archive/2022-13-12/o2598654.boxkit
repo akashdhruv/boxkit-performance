@@ -1,0 +1,55 @@
+Restoring modules from user's boxkit, for system: "summit"
+
+-------------------------Running: __main__.TestMean.test_06_datasets_3D-------------------------
+
+nthreads: 12
+...
+----------------------------------------------------------------------
+Ran 3 tests in 67.108s
+
+OK
+[boxkit.mean_temporal.mean_blk_list]: 3.408s
+[boxkit.mean_temporal.mean_blk_list]: 2.408s
+[boxkit.mean_temporal.mean_blk_list]: 2.326s
+[boxkit.mean_temporal]: 8.426s
+[mean_06_datasets]: 8.426s
+[mergeblocks]: 0.525s
+__main__.TestMean.test_06_datasets_3D: 10.723s
+
+-------------------------Running: __main__.TestMean.test_12_datasets_3D-------------------------
+
+nthreads: 12
+[boxkit.mean_temporal.mean_blk_list]: 3.819s
+[boxkit.mean_temporal.mean_blk_list]: 4.052s
+[boxkit.mean_temporal.mean_blk_list]: 4.309s
+[boxkit.mean_temporal]: 12.469s
+[mean_12_datasets]: 12.470s
+[mergeblocks]: 0.456s
+__main__.TestMean.test_12_datasets_3D: 16.029s
+
+-------------------------Running: __main__.TestMean.test_29_datasets_3D-------------------------
+
+nthreads: 12
+[boxkit.mean_temporal.mean_blk_list]: 10.255s
+[boxkit.mean_temporal.mean_blk_list]: 10.129s
+[boxkit.mean_temporal.mean_blk_list]: 11.660s
+[boxkit.mean_temporal]: 32.343s
+[mean_29_datasets]: 32.344s
+[mergeblocks]: 0.528s
+__main__.TestMean.test_29_datasets_3D: 40.007s
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@batch5>
+Subject: Job 2598654: <boxkit> in cluster <summit> Done
+
+Job <boxkit> was submitted from host <login3> by user <adhruv> in cluster <summit> at Tue Dec 13 04:13:34 2022
+Job was executed on host(s) <1*batch5>, in queue <batch>, as user <adhruv> in cluster <summit> at Tue Dec 13 04:14:24 2022
+                            <42*h32n10>
+</ccs/home/adhruv> was used as the home directory.
+</gpfs/alpine/ast136/proj-shared/adhruv/Boxkit> was used as the working directory.
+Started at Tue Dec 13 04:14:24 2022
+Terminated at Tue Dec 13 04:15:50 2022
+Results reported at Tue Dec 13 04:15:50 2022
+
+The output (if any) is above this job summary.
+
